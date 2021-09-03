@@ -1,0 +1,1 @@
+<a data-category="{!iterator.value1}" data-id="{!iterator.value2}" onclick="{!c.action}"> </a>
